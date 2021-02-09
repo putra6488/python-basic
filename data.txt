@@ -1,0 +1,3 @@
+ini adalah data text dibuat dengan python
+ini baris kedua
+baris ini dibuat dengan append mode
